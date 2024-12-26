@@ -22,7 +22,7 @@ The complete prompt for this GPT is available in this repository:
 
 
 ## 👨‍💻 Author & Links
-- Created by [Edoardo Avenia](https://www.linkedin.com/in/edoardoavenia/)
+- Created by [Edoardo Avenia](https://github.com/edoardoavenia)
 - Email: [edoardoavenia99@gmail.com](mailto:edoardoavenia99@gmail.com)
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/edoardoavenia/)
 
