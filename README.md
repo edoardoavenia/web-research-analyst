@@ -15,7 +15,7 @@ Expert in deep web analysis and structured research, specialized in examining an
 ## 🔗 Direct Links
 - 🎯 [Try Web Research Analyst GPT](https://chat.openai.com/g/g-IF18aGRLF-web-research-analyst)
 - 📚 [View All My GPTs Collection](https://github.com/edoardoavenia/edoardo-avenia-gpt-collection)
-- 💡 [View Full Prompt](./prompts/main.txt)
+- 💡 [View Full Prompt](./PROMPT.md)
 
 ## 📖 Documentation
 The complete prompt for this GPT is available in this repository:
