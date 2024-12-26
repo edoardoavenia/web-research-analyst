@@ -1,30 +1,11 @@
-# Web Research Analyst
+# 🔍 Web Research Analyst GPT
 
 <div align="center">
-  <a href="https://github.com/edoardoavenia">
-    <img src="https://img.shields.io/badge/Developer-Edoardo_Avenia-2ea44f?style=for-the-badge&logo=github" alt="Developer">
+  <a href="https://chat.openai.com/g/g-IF18aGRLF-web-research-analyst">
+    <img src="https://img.shields.io/badge/Try_GPT-37a779?style=for-the-badge&logo=openai" alt="Try Web Research Analyst">
   </a>
-  <a href="https://chat.openai.com">
-    <img src="https://img.shields.io/badge/Platform-ChatGPT-74aa9c?style=for-the-badge&logo=openai" alt="Platform">
+  <img src="https://img.shields.io/badge/v6.4-Latest-2ea44f?style=for-the-badge" alt="Version">
+  <a href="https://github.com/edoardoavenia/edoardo-avenia-gpt-collection">
+    <img src="https://img.shields.io/badge/Collection-View_All_GPTs-blue?style=for-the-badge&logo=github" alt="GPTs Collection">
   </a>
 </div>
-
-## Version
-<div align="center">
-  <img src="https://img.shields.io/badge/v6.4-Latest-green?style=for-the-badge&logo=v" alt="Version">
-  <img src="https://img.shields.io/badge/EN-language-blue?style=for-the-badge" alt="Language">
-</div>
-
-## Overview
-Detailed description of Web Research Analyst capabilities and features.
-
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Usage
-Instructions on how to use this GPT effectively.
-
-## License
-This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
