@@ -2,19 +2,15 @@
 
 <div align="center">
   <a href="https://chat.openai.com/g/g-IF18aGRLF-web-research-analyst">
-    <img src="https://img.shields.io/badge/TRY_THIS_GPT-37a779?style=for-the-badge&logo=openai&logoWidth=40&logoHeight=40" alt="Try Web Research Analyst" width="250">
+    <img src="https://img.shields.io/badge/TRY_THIS_GPT-37a779?style=for-the-badge&logo=openai&logoWidth=20" alt="Try Web Research Analyst" width="200">
   </a>
-  
   <a href="https://github.com/edoardoavenia/edoardo-avenia-gpt-collection">
-    <img src="https://img.shields.io/badge/VIEW_ALL_MY_GPTs-4f46e5?style=for-the-badge&logo=github&logoWidth=40&logoHeight=40" alt="GPTs Collection" width="250">
+    <img src="https://img.shields.io/badge/VIEW_ALL_MY_GPTs-4f46e5?style=for-the-badge&logo=github&logoWidth=20" alt="GPTs Collection" width="200">
   </a>
 </div>
 
 ## 🤖 About This GPT
-Expert AI assistant for deep web research and analysis [Version 6.4]
-- Break down complex topics into clear, structured insights
-- Provide comprehensive research with verified sources
-- Deliver organized, easy-to-understand reports
+Expert in deep web analysis and structured research, specialized in examining and explaining complex topics through extensive research, ensuring complete understanding of any requested subject.
 
 ## 🔗 Direct Links
 - 🎯 [Try Web Research Analyst GPT](https://chat.openai.com/g/g-IF18aGRLF-web-research-analyst)
