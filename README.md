@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/TRY_THIS_GPT-37a779?style=for-the-badge&logo=openai&logoWidth=20" alt="Try Web Research Analyst" width="200">
   </a>
   <a href="https://github.com/edoardoavenia/edoardo-avenia-gpt-collection">
-    <img src="https://img.shields.io/badge/VIEW_ALL_MY_GPTs-4f46e5?style=for-the-badge&logo=github&logoWidth=20" alt="GPTs Collection" width="230">
+    <img src="https://img.shields.io/badge/VIEW_ALL_MY_GPTs-4f46e5?style=for-the-badge&logo=github&logoWidth=20" alt="GPTs Collection" width="250">
   </a>
 </div>
 
