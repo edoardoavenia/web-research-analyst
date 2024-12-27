@@ -17,10 +17,6 @@ Expert in deep web analysis and structured research, specialized in examining an
 - 📚 [View All My GPTs Collection](https://github.com/edoardoavenia/edoardo-avenia-gpt-collection)
 - 💡 [View Full Prompt](./PROMPT.md)
 
-## 📖 Documentation
-The complete prompt for this GPT is available in this repository:
-
-
 ## 👨‍💻 Author & Links
 - Created by [Edoardo Avenia](https://github.com/edoardoavenia)
 - Email: [edoardoavenia99@gmail.com](mailto:edoardoavenia99@gmail.com)
